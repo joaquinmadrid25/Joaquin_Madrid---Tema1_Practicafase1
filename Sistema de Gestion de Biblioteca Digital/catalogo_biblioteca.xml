@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca xmlns:lib="http://biblioteca.campuscamarasevilla.es/libro"
+            xmlns:rev="http://biblioteca.campuscamarasevilla.es/revista">
+   <libros>
+      <libro id="9788488255990">
+    <titulo>Informatica educativa</titulo>
+    <subtitulo>Introducción a la informática aplicada a la educación</subtitulo>
+    <autor>
+        <nombre>Manuel Ortega Cantero</nombre>
+        <especialidad>Informática educativa</especialidad>
+    </autor>
+    <editorial>Manuel Ortega Cantero</editorial>
+    <publicacion>1985</publicacion>
+    <isbn>9788488255990</isbn>
+    <categoria>Informática</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Obra relacionada con la aplicación de la informática en el ámbito educativo.</sipnosis>
+</libro>
+
+<libro id="9789684442825">
+    <titulo>Introducción a la Computacion</titulo>
+    <subtitulo>Conceptos fundamentales de computación</subtitulo>
+    <autor>
+        <nombre>George Beekman</nombre>
+        <especialidad>Computación y sistemas informáticos</especialidad>
+    </autor>
+    <editorial>Pearson Educación</editorial>
+    <publicacion>2000</publicacion>
+    <isbn>9789684442825</isbn>
+    <categoria>Computación</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Introducción a los principales conceptos de la computación y las tecnologías informáticas.</sipnosis>
+</libro>
+
+<libro id="9788428340595">
+    <titulo>Lenguajes de marcas y sistemas de gestión de información</titulo>
+    <subtitulo>Paraninfo Ciclos formativos</subtitulo>
+    <autor>
+        <nombre>Fernando Paniagua Martín</nombre>
+        <especialidad>Ingeniería informática y lenguajes de marcas</especialidad>
+    </autor>
+    <editorial>Ediciones Paraninfo, S.A.</editorial>
+    <publicacion>2021-05-14</publicacion>
+    <isbn>9788428340595</isbn>
+    <categoria>Informática y lenguajes de marcas</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Libro sobre HTML, XHTML, CSS, XML, JSON y sistemas de gestión de información.</sipnosis>
+</libro>
+
+<libro id="9788497887090">
+    <titulo>Una historia de la informática</titulo>
+    <subtitulo>Historia y evolución de la tecnología informática</subtitulo>
+    <autor>
+        <nombre>Miquel Barceló</nombre>
+        <especialidad>Historia de la informática y tecnología</especialidad>
+    </autor>
+    <editorial>Editorial UOC</editorial>
+    <publicacion>2008</publicacion>
+    <isbn>9788497887090</isbn>
+    <categoria>Historia de la informática</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Introducción a la historia de la informática, desde sus antecedentes hasta Internet y los ordenadores modernos.</sipnosis>
+</libro>
+
+<libro id="9788418254079">
+    <titulo>Redes de computadores</titulo>
+    <subtitulo>Fundamentos de las redes informáticas</subtitulo>
+    <autor>
+        <nombre>Manuel Sánchez Rubio; José Javier Martínez Herráiz; Roberto Barchino Plata</nombre>
+        <especialidad>Redes y sistemas informáticos</especialidad>
+    </autor>
+    <editorial>Universidad de Alcalá. Servicio de Publicaciones</editorial>
+    <publicacion>2020</publicacion>
+    <isbn>9788418254079</isbn>
+    <categoria>Redes informáticas</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Estudio de las redes informáticas, sus aplicaciones, comunicaciones y sistemas de información.</sipnosis>
+</libro>
+
+<libro id="9786073208178">
+    <titulo>Redes de computadoras</titulo>
+    <subtitulo>5.ª edición</subtitulo>
+    <autor>
+        <nombre>Andrew S. Tanenbaum; David J. Wetherall</nombre>
+        <especialidad>Redes de computadores</especialidad>
+    </autor>
+    <editorial>Pearson Educación</editorial>
+    <publicacion>2012</publicacion>
+    <isbn>9786073208178</isbn>
+    <categoria>Redes informáticas</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Introducción a las redes de computadoras, incluyendo redes inalámbricas, Internet y seguridad.</sipnosis>
+</libro>
+
+<libro id="9788413660769">
+    <titulo>Bases de datos</titulo>
+    <subtitulo>Diseño y gestión de bases de datos</subtitulo>
+    <autor>
+        <nombre>Antonio Postigo Palacios</nombre>
+        <especialidad>Bases de datos y sistemas de información</especialidad>
+    </autor>
+    <editorial>Ediciones Paraninfo, S.A.</editorial>
+    <publicacion>2021</publicacion>
+    <isbn>9788413660769</isbn>
+    <categoria>Bases de datos</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Obra sobre análisis, diseño, desarrollo y gestión de bases de datos relacionales.</sipnosis>
+</libro>
+
+<libro id="9788419034588">
+    <titulo>Bases De Datos</titulo>
+    <subtitulo>3.ª edición</subtitulo>
+    <autor>
+        <nombre>Iván López Montalbán; Manuel de Castro Vázquez</nombre>
+        <especialidad>Bases de datos y sistemas gestores</especialidad>
+    </autor>
+    <editorial>Garceta</editorial>
+    <publicacion>2024</publicacion>
+    <isbn>9788419034588</isbn>
+    <categoria>Bases de datos</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Libro dedicado al estudio de las bases de datos y su utilización en sistemas informáticos.</sipnosis>
+</libro>
+
+<libro id="9786077075929">
+    <titulo>Bases de datos</titulo>
+    <subtitulo>Diseño, funcionamiento y aplicaciones</subtitulo>
+    <autor>
+        <nombre>Iván López Montalbán; María Jesús Castellano Pérez; John Ospino Rivas</nombre>
+        <especialidad>Bases de datos</especialidad>
+    </autor>
+    <editorial>Alfaomega</editorial>
+    <publicacion>2013</publicacion>
+    <isbn>9786077075929</isbn>
+    <categoria>Bases de datos</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Obra práctica sobre funcionamiento, composición, diseño y aplicaciones de las bases de datos.</sipnosis>
+</libro>
+
+<libro id="9786075502601">
+    <titulo>Informática 1</titulo>
+    <subtitulo>Conceptos básicos de informática y ciudadanía digital</subtitulo>
+    <autor>
+        <nombre>Rosa Alicia Elizondo Callejas</nombre>
+        <especialidad>Informática y educación digital</especialidad>
+    </autor>
+    <editorial>Grupo Editorial Patria</editorial>
+    <publicacion>2020-05-13</publicacion>
+    <isbn>9786075502601</isbn>
+    <categoria>Informática</categoria>
+    <ubicacion>Google Books</ubicacion>
+    <disponible>Si</disponible>
+    <sipnosis>Introducción a la informática, Internet, ciudadanía digital y herramientas básicas de software.</sipnosis>
+  </libro>
+  
+  <revistas>
+
+    <revista id="ISSN0199-6649">
+        <titulo>InfoWorld</titulo>
+        <subtitulo>Revista especializada en tecnologías de la información</subtitulo>
+        <autor>
+            <nombre>InfoWorld Media Group, Inc.</nombre>
+            <especialidad>Tecnologías de la información</especialidad>
+        </autor>
+        <institucion>InfoWorld Media Group, Inc.</institucion>
+        <publicacion>1984-12-24</publicacion>
+        <issn>0199-6649</issn>
+        <categoria>Informática y tecnología</categoria>
+        <ubicacion>Google Books</ubicacion>
+        <disponible>Si</disponible>
+        <descripcion>Revista especializada dirigida a profesionales de tecnologías de la información.</descripcion>
+    </revista>
+
+    <revista id="ISSN0000-0001">
+        <titulo>Computers & Education</titulo>
+        <subtitulo>Technology and education</subtitulo>
+        <autor>
+            <nombre>Elsevier</nombre>
+            <especialidad>Informática educativa</especialidad>
+        </autor>
+        <institucion>Elsevier</institucion>
+        <publicacion>2024</publicacion>
+        <issn>0360-1315</issn>
+        <categoria>Educación e informática</categoria>
+        <ubicacion>Google Books</ubicacion>
+        <disponible>Si</disponible>
+        <descripcion>Publicación especializada en tecnología aplicada a la educación.</descripcion>
+    </revista>
+
+    <revista id="ISSN0000-0002">
+        <titulo>Computerworld</titulo>
+        <subtitulo>Información sobre tecnología y sistemas informáticos</subtitulo>
+        <autor>
+            <nombre>Computerworld</nombre>
+            <especialidad>Tecnologías de la información</especialidad>
+        </autor>
+        <institucion>Computerworld</institucion>
+        <publicacion>2024</publicacion>
+        <issn>0010-4841</issn>
+        <categoria>Informática y tecnología</categoria>
+        <ubicacion>Google Books</ubicacion>
+        <disponible>Si</disponible>
+        <descripcion>Revista especializada en tecnología, informática y sistemas de información.</descripcion>
+    </revista>
+
+    <revista id="ISSN0000-0003">
+        <titulo>PC Magazine</titulo>
+        <subtitulo>Informática, software y hardware</subtitulo>
+        <autor>
+            <nombre>PC Magazine</nombre>
+            <especialidad>Informática y tecnología</especialidad>
+        </autor>
+        <institucion>PC Magazine</institucion>
+        <publicacion>2024</publicacion>
+        <issn>0888-8507</issn>
+        <categoria>Informática</categoria>
+        <ubicacion>Google Books</ubicacion>
+        <disponible>Si</disponible>
+        <descripcion>Revista especializada en ordenadores, software, hardware y tecnología.</descripcion>
+    </revista>
+
+    <revista id="ISSN0000-0004">
+        <titulo>Byte</titulo>
+        <subtitulo>Computación y tecnología</subtitulo>
+        <autor>
+            <nombre>Byte</nombre>
+            <especialidad>Computación y tecnología</especialidad>
+        </autor>
+        <institucion>Byte</institucion>
+        <publicacion>2024</publicacion>
+        <issn>0360-5280</issn>
+        <categoria>Computación</categoria>
+        <ubicacion>Google Books</ubicacion>
+        <disponible>Si</disponible>
+        <descripcion>Publicación dedicada a la informática, computación y evolución de las tecnologías.</descripcion>
+    </revista>
+
+      </revistas>
+    </libros>
+  </biblioteca>

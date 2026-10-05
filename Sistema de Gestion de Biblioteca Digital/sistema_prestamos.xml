@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<prestamos xmlns:lib="http://biblioteca.campuscamarasevilla.es/libro"
+           xmlns:usu="http://biblioteca.campuscamarasevilla.es/usuario">
+
+    <prestamo id="P001">
+        <usuario>
+            <usu:id>U001</usu:id>
+            <usu:nombre>Laura García López</usu:nombre>
+            <usu:tipo>Estudiante</usu:tipo>
+        </usuario>
+        <libro>
+            <lib:id>9788428340595</lib:id>
+            <lib:titulo>Lenguajes de marcas y sistemas de gestión de información</lib:titulo>
+        </libro>
+        <fechaPrestamo>2026-09-20</fechaPrestamo>
+        <fechaDevolucion>2026-10-04</fechaDevolucion>
+        <estado>Activo</estado>
+    </prestamo>
+
+    <prestamo id="P002">
+        <usuario>
+            <usu:id>U002</usu:id>
+            <usu:nombre>Carlos Martínez Ruiz</usu:nombre>
+            <usu:tipo>Estudiante</usu:tipo>
+        </usuario>
+        <libro>
+            <lib:id>9789684442825</lib:id>
+            <lib:titulo>Introducción a la Computacion</lib:titulo>
+        </libro>
+        <fechaPrestamo>2026-09-15</fechaPrestamo>
+        <fechaDevolucion>2026-09-29</fechaDevolucion>
+        <estado>Devuelto</estado>
+    </prestamo>
+
+    <prestamo id="P003">
+        <usuario>
+            <usu:id>U003</usu:id>
+            <usu:nombre>María López Sánchez</usu:nombre>
+            <usu:tipo>Profesor</usu:tipo>
+        </usuario>
+        <libro>
+            <lib:id>9788488255990</lib:id>
+            <lib:titulo>Informatica educativa</lib:titulo>
+        </libro>
+        <fechaPrestamo>2026-09-25</fechaPrestamo>
+        <fechaDevolucion>2026-10-09</fechaDevolucion>
+        <estado>Activo</estado>
+    </prestamo>
+
+    <prestamo id="P004">
+        <usuario>
+            <usu:id>U004</usu:id>
+            <usu:nombre>David Fernández Moreno</usu:nombre>
+            <usu:tipo>Investigador</usu:tipo>
+        </usuario>
+        <libro>
+            <lib:id>9788497887090</lib:id>
+            <lib:titulo>Una historia de la informática</lib:titulo>
+        </libro>
+        <fechaPrestamo>2026-09-22</fechaPrestamo>
+        <fechaDevolucion>2026-10-06</fechaDevolucion>
+        <estado>Activo</estado>
+    </prestamo>
+
+    <prestamo id="P005">
+        <usuario>
+            <usu:id>U005</usu:id>
+            <usu:nombre>Ana Rodríguez Martín</usu:nombre>
+            <usu:tipo>Estudiante</usu:tipo>
+        </usuario>
+        <libro>
+            <lib:id>9786073208178</lib:id>
+            <lib:titulo>Redes de computadoras</lib:titulo>
+        </libro>
+        <fechaPrestamo>2026-09-18</fechaPrestamo>
+        <fechaDevolucion>2026-10-02</fechaDevolucion>
+        <estado>Devuelto</estado>
+    </prestamo>
+
+</prestamos>
