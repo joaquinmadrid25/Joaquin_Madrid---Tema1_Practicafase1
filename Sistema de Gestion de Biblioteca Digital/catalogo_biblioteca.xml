@@ -2,7 +2,7 @@
 <biblioteca xmlns:lib="http://biblioteca.campuscamarasevilla.es/libro"
             xmlns:rev="http://biblioteca.campuscamarasevilla.es/revista">
    <libros>
-      <libro id="9788488255990">
+      <libro id="001">
     <titulo>Informatica educativa</titulo>
     <subtitulo>Introducción a la informática aplicada a la educación</subtitulo>
     <autor>
@@ -18,7 +18,7 @@
     <sipnosis>Obra relacionada con la aplicación de la informática en el ámbito educativo.</sipnosis>
 </libro>
 
-<libro id="9789684442825">
+<libro id="002">
     <titulo>Introducción a la Computacion</titulo>
     <subtitulo>Conceptos fundamentales de computación</subtitulo>
     <autor>
@@ -34,7 +34,7 @@
     <sipnosis>Introducción a los principales conceptos de la computación y las tecnologías informáticas.</sipnosis>
 </libro>
 
-<libro id="9788428340595">
+<libro id="003">
     <titulo>Lenguajes de marcas y sistemas de gestión de información</titulo>
     <subtitulo>Paraninfo Ciclos formativos</subtitulo>
     <autor>
@@ -50,7 +50,7 @@
     <sipnosis>Libro sobre HTML, XHTML, CSS, XML, JSON y sistemas de gestión de información.</sipnosis>
 </libro>
 
-<libro id="9788497887090">
+<libro id="004">
     <titulo>Una historia de la informática</titulo>
     <subtitulo>Historia y evolución de la tecnología informática</subtitulo>
     <autor>
@@ -66,7 +66,7 @@
     <sipnosis>Introducción a la historia de la informática, desde sus antecedentes hasta Internet y los ordenadores modernos.</sipnosis>
 </libro>
 
-<libro id="9788418254079">
+<libro id="005">
     <titulo>Redes de computadores</titulo>
     <subtitulo>Fundamentos de las redes informáticas</subtitulo>
     <autor>
@@ -82,7 +82,7 @@
     <sipnosis>Estudio de las redes informáticas, sus aplicaciones, comunicaciones y sistemas de información.</sipnosis>
 </libro>
 
-<libro id="9786073208178">
+<libro id="006">
     <titulo>Redes de computadoras</titulo>
     <subtitulo>5.ª edición</subtitulo>
     <autor>
@@ -98,7 +98,7 @@
     <sipnosis>Introducción a las redes de computadoras, incluyendo redes inalámbricas, Internet y seguridad.</sipnosis>
 </libro>
 
-<libro id="9788413660769">
+<libro id="007">
     <titulo>Bases de datos</titulo>
     <subtitulo>Diseño y gestión de bases de datos</subtitulo>
     <autor>
@@ -114,7 +114,7 @@
     <sipnosis>Obra sobre análisis, diseño, desarrollo y gestión de bases de datos relacionales.</sipnosis>
 </libro>
 
-<libro id="9788419034588">
+<libro id="008">
     <titulo>Bases De Datos</titulo>
     <subtitulo>3.ª edición</subtitulo>
     <autor>
@@ -130,7 +130,7 @@
     <sipnosis>Libro dedicado al estudio de las bases de datos y su utilización en sistemas informáticos.</sipnosis>
 </libro>
 
-<libro id="9786077075929">
+<libro id="009">
     <titulo>Bases de datos</titulo>
     <subtitulo>Diseño, funcionamiento y aplicaciones</subtitulo>
     <autor>
@@ -146,7 +146,7 @@
     <sipnosis>Obra práctica sobre funcionamiento, composición, diseño y aplicaciones de las bases de datos.</sipnosis>
 </libro>
 
-<libro id="9786075502601">
+<libro id="010">
     <titulo>Informática 1</titulo>
     <subtitulo>Conceptos básicos de informática y ciudadanía digital</subtitulo>
     <autor>
