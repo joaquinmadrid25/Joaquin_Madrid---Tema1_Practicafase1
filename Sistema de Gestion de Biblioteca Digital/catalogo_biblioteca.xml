@@ -143,12 +143,12 @@
     <categoria>Bases de datos</categoria>
     <ubicacion>Google Books</ubicacion>
     <disponible>Si</disponible>
-    <sipnosis>Obra práctica sobre funcionamiento, composición, diseño &amp aplicaciones de las bases de datos.</sipnosis>
+    <sipnosis>Obra práctica sobre funcionamiento, composición, diseño  y aplicaciones de las bases de datos.</sipnosis>
 </libro>
 
 <libro id="010">
     <titulo>Informática 1</titulo>
-    <subtitulo>Conceptos básicos de informática &amp ciudadanía digital</subtitulo>
+    <subtitulo>Conceptos básicos de informática y ciudadanía digital</subtitulo>
     <autor>
         <nombre>Rosa Alicia Elizondo Callejas</nombre>
         <especialidad>Informática y educación digital</especialidad>
@@ -174,14 +174,14 @@
         <institucion>InfoWorld Media Group, Inc.</institucion>
         <publicacion>1984-12-24</publicacion>
         <issn>0199-6649</issn>
-        <categoria>Informática &amp tecnología</categoria>
+        <categoria>Informática  y tecnología</categoria>
         <ubicacion>Google Books</ubicacion>
         <disponible>Si</disponible>
         <descripcion>Revista especializada dirigida a profesionales de tecnologías de la información.</descripcion>
     </revista>
 
     <revista id="ISSN0000-0001">
-        <titulo>Computers & Education</titulo>
+        <titulo>Computers  y Education</titulo>
         <subtitulo>Technology and education</subtitulo>
         <autor>
             <nombre>Elsevier</nombre>
